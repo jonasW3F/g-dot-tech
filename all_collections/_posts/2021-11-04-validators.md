@@ -5,7 +5,7 @@ date: 2022-04-11
 categories: ["validators"]
 ---
 
-As G-Dot Staking I am providing validators on Polkadot and Kusama on professionally handled and maintained infrastructure. I am currently maintaining two validators, one on Polkadot and one on Kusama. The nodes are held on professional setups with 24/7 monitoring and alert functions.
+As G-dot Staking I am providing validators on Polkadot and Kusama on professionally handled and maintained infrastructure. I am currently maintaining two validators, one on Polkadot and one on Kusama. The nodes are held on professional setups with 24/7 monitoring and alert functions.
 
 #### Kusama Nodes
 * Name: JUST JONAS/1
