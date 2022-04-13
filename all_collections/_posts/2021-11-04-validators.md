@@ -28,7 +28,7 @@ As G-dot Staking I am providing validators on Polkadot and Kusama on professiona
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">JUST JONAS/1</td>
+    <td class="tg-0pky">ARCTIC BREEZE ❄️</td>
     <td class="tg-0pky">DPdkDRzUV56F5R8fNjZwFx2Uctn173c1UJJXjxQMVMZuCqS</td>
     <td class="tg-0pky">10%</td>
     <td class="tg-0pky">yes</td>
