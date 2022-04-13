@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Validators
+title: Validators
 date: 2022-04-11
 categories: ["validators"]
 ---
@@ -16,15 +16,14 @@ As G-dot Staking I am providing validators on Polkadot and Kusama on professiona
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Name</th>
+    <th class="tg-0pky">Sub-ID</th>
     <th class="tg-0pky">Stash Address</th>
     <th class="tg-0pky">Commission</th>
-    <th class="tg-0lax">1kv</th>
+    <th class="tg-0pky">1kv</th>
   </tr>
 </thead>
 <tbody>
@@ -32,19 +31,19 @@ As G-dot Staking I am providing validators on Polkadot and Kusama on professiona
     <td class="tg-0pky">JUST JONAS/1</td>
     <td class="tg-0pky">DPdkDRzUV56F5R8fNjZwFx2Uctn173c1UJJXjxQMVMZuCqS</td>
     <td class="tg-0pky">10%</td>
-    <td class="tg-0lax">yes</td>
+    <td class="tg-0pky">yes</td>
   </tr>
   <tr>
-    <td class="tg-0pky">JUST JONAS/2</td>
+    <td class="tg-0pky">SUPER WOW 💥</td>
     <td class="tg-0pky">HHvov74Rs8S9zGJifq7HKw4Ua14medsxokDyyCwjSSDfSj7</td>
     <td class="tg-0pky">10%</td>
-    <td class="tg-0lax">yes</td>
+    <td class="tg-0pky">yes</td>
   </tr>
   <tr>
-    <td class="tg-0lax">JUST JONAS/3</td>
-    <td class="tg-0lax">G9zJwPviHn5qRHCRX4Gm75XtUob9Cagyu4fdrhrzwsbqUwX</td>
-    <td class="tg-0lax">3%</td>
-    <td class="tg-0lax">no</td>
+    <td class="tg-0pky">ORGANIC MILD 🌱</td>
+    <td class="tg-0pky">G9zJwPviHn5qRHCRX4Gm75XtUob9Cagyu4fdrhrzwsbqUwX</td>
+    <td class="tg-0pky">3%</td>
+    <td class="tg-0pky">no</td>
   </tr>
 </tbody>
 </table>
