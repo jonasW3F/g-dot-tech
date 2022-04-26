@@ -5,7 +5,7 @@ date: 2022-04-26
 categories: ["staking"]
 ---
 
-As G-dot Staking I am providing validators on Polkadot and Kusama and Phala staking pools on professionally handled and maintained infrastructure. The nodes are monitored 24/7 with alerting functions.
+As G-dot Tech, I am providing staking services on Polkadot, Kusama, and Phala network. The nodes are operated on professionally handled and maintained infrastructure with 24/7 monitoring and alert functions.
 
 #### Kusama Nodes
 
@@ -79,6 +79,8 @@ As G-dot Staking I am providing validators on Polkadot and Kusama and Phala stak
 
 #### Phala Pools
 
+If you wish to delegate to one of my pools, feel free to reach out and ask for an offer.
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -97,7 +99,7 @@ As G-dot Staking I am providing validators on Polkadot and Kusama and Phala stak
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">g-dot-pha1</span></td>
+    <td class="tg-0pky">g-dot-pha-1</td>
     <td class="tg-0pky">2124</td>
     <td class="tg-0pky">43AgWwUELCnmcHzEK2B7rtFAeTCMsPug3Ts77JFGs6q9UCfq</td>
   </tr>
