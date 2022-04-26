@@ -1,4 +1,4 @@
-const categories = { validators: [{ url: `/posts/validators/`, date: `11 Apr 2022`, title: `Validators`},], }
+const categories = { staking: [{ url: `/posts/validators/`, date: `26 Apr 2022`, title: `Staking`},], }
 
 window.onload = function () {
   document.querySelectorAll(".category").forEach((category) => {

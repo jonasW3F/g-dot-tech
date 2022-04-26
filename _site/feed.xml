@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-13T16:16:05+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">G-dot Tech Staking</title><author><name>Jonas Gehrlein</name><email>gdot-tech@protonmail.com</email></author><entry><title type="html">Validators</title><link href="http://localhost:4000/posts/validators/" rel="alternate" type="text/html" title="Validators" /><published>2022-04-11T00:00:00+02:00</published><updated>2022-04-11T00:00:00+02:00</updated><id>http://localhost:4000/posts/validators</id><content type="html" xml:base="http://localhost:4000/posts/validators/">&lt;p&gt;As G-dot Staking I am providing validators on Polkadot and Kusama on professionally handled and maintained infrastructure. I am currently maintaining two validators, one on Polkadot and one on Kusama. The nodes are held on professional setups with 24/7 monitoring and alert functions.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-26T17:00:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">G-dot Tech Staking</title><author><name>Jonas Gehrlein</name><email>gdot-tech@protonmail.com</email></author><entry><title type="html">Staking</title><link href="http://localhost:4000/posts/validators/" rel="alternate" type="text/html" title="Staking" /><published>2022-04-26T00:00:00+02:00</published><updated>2022-04-26T00:00:00+02:00</updated><id>http://localhost:4000/posts/validators</id><content type="html" xml:base="http://localhost:4000/posts/validators/">&lt;p&gt;As G-dot Staking I am providing validators on Polkadot and Kusama and Phala staking pools on professionally handled and maintained infrastructure. The nodes are monitored 24/7 with alerting functions.&lt;/p&gt;
 
 &lt;h4 id=&quot;kusama-nodes&quot;&gt;Kusama Nodes&lt;/h4&gt;
 
@@ -22,7 +22,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;JUST JONAS/1&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;ARCTIC BREEZE ❄️&lt;/td&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;DPdkDRzUV56F5R8fNjZwFx2Uctn173c1UJJXjxQMVMZuCqS&lt;/td&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;10%&lt;/td&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;yes&lt;/td&gt;
@@ -36,7 +36,7 @@
   &lt;tr&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;ORGANIC MILD 🌱&lt;/td&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;G9zJwPviHn5qRHCRX4Gm75XtUob9Cagyu4fdrhrzwsbqUwX&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;3%&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;5%&lt;/td&gt;
     &lt;td class=&quot;tg-0pky&quot;&gt;no&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -64,10 +64,38 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-0lax&quot;&gt;JUST JONAS/1&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;SWEET HONEY 🍯&lt;/td&gt;
     &lt;td class=&quot;tg-0lax&quot;&gt;153Fz22gxQP8HM8RbnvEt9XWsXu9nR8jxZC2MbQFmuKhN62f&lt;/td&gt;
     &lt;td class=&quot;tg-0lax&quot;&gt;3%&lt;/td&gt;
     &lt;td class=&quot;tg-0lax&quot;&gt;yes&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Jonas Gehrlein</name><email>gdot-tech@protonmail.com</email></author><category term="validators" /><summary type="html">As G-dot Staking I am providing validators on Polkadot and Kusama on professionally handled and maintained infrastructure. I am currently maintaining two validators, one on Polkadot and one on Kusama. The nodes are held on professional setups with 24/7 monitoring and alert functions.</summary></entry></feed>
+&lt;/table&gt;
+
+&lt;h4 id=&quot;phala-pools&quot;&gt;Phala Pools&lt;/h4&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+&lt;/style&gt;
+
+&lt;table class=&quot;tg&quot;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&quot;tg-0pky&quot;&gt;Name&lt;/th&gt;
+    &lt;th class=&quot;tg-0pky&quot;&gt;PID&lt;/th&gt;
+    &lt;th class=&quot;tg-0pky&quot;&gt;Owner&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal&quot;&gt;g-dot-pha1&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;2124&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;43AgWwUELCnmcHzEK2B7rtFAeTCMsPug3Ts77JFGs6q9UCfq&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Jonas Gehrlein</name><email>gdot-tech@protonmail.com</email></author><category term="staking" /><summary type="html">As G-dot Staking I am providing validators on Polkadot and Kusama and Phala staking pools on professionally handled and maintained infrastructure. The nodes are monitored 24/7 with alerting functions.</summary></entry></feed>
