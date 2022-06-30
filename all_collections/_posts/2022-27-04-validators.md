@@ -5,7 +5,7 @@ date: 2022-04-27
 categories: ["staking"]
 ---
 
-As G-dot Tech, I am providing staking services on Polkadot, Kusama, and Phala network. The nodes are operated on professionally handled and maintained infrastructure with 24/7 monitoring and alert functions.
+As G-dot Tech, I am providing staking services on Polkadot, Kusama, Zeitgeist and Phala network. The nodes are operated on professionally handled and maintained infrastructure with 24/7 monitoring and alert functions.
 
 #### Kusama Nodes
 
