@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Staking
-date: 2022-11-09
+date: 2023-09-27
 categories: ["staking"]
 ---
 
-As G-dot Tech, I am providing staking services on Polkadot, Kusama, Zeitgeist, KILT, and Phala network. The nodes are operated on professionally handled and maintained infrastructure with 24/7 monitoring and alert functions. 
+As G-dot Tech, I am providing staking services on Polkadot, Kusama, and Phala network. The nodes are operated on professionally handled and maintained infrastructure with 24/7 monitoring and alert functions.
 
 #### Kusama Nodes
 
@@ -30,13 +30,13 @@ As G-dot Tech, I am providing staking services on Polkadot, Kusama, Zeitgeist, K
   <tr>
     <td class="tg-0pky">ARCTIC BREEZE ❄️</td>
     <td class="tg-0pky">DPdkDRzUV56F5R8fNjZwFx2Uctn173c1UJJXjxQMVMZuCqS</td>
-    <td class="tg-0pky">15%</td>
+    <td class="tg-0pky">10%</td>
     <td class="tg-0pky">yes</td>
   </tr>
   <tr>
     <td class="tg-0pky">SUPER WOW 💥</td>
     <td class="tg-0pky">HHvov74Rs8S9zGJifq7HKw4Ua14medsxokDyyCwjSSDfSj7</td>
-    <td class="tg-0pky">15%</td>
+    <td class="tg-0pky">10%</td>
     <td class="tg-0pky">yes</td>
   </tr>
   <tr>
@@ -71,21 +71,17 @@ As G-dot Tech, I am providing staking services on Polkadot, Kusama, Zeitgeist, K
   <tr>
     <td class="tg-0lax">SWEET HONEY 🍯</td>
     <td class="tg-0lax">153Fz22gxQP8HM8RbnvEt9XWsXu9nR8jxZC2MbQFmuKhN62f</td>
-    <td class="tg-0lax">5%</td>
+    <td class="tg-0lax">3%</td>
     <td class="tg-0lax">yes</td>
   </tr>
 </tbody>
 </table>
 
-#### Phala Pools
+#### Phala Vault
 
-If you wish to delegate to one of my pools, feel free to reach out and ask for an offer.
+G-dot Tech now welcomes new delegations to our [Phala Vault](https://app.phala.network/khala/vault/3796). We combine our own professionally maintained infrastructure with community pools for a perfect balance of APY and reliability. In the spirit of Swissmade quality, our setup embodies the precision and excellence associated with Swiss engineering. Looking forward to accompany your stake with us! For any questions, feel free to reach out.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">PID</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Owner</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Workers</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Pool 1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2124</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">43AgWwUELCnmcHzEK2B7rtFAeTCMsPug3Ts77JFGs6q9UCfq</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">10</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Pool 2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2397</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">461VWZkYZw22VUBZDytUFKESzt4FXguXB7B4b8feiBoDNn53</span></td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">12</td></tr></tbody></table>
-
-#### Zeitgeist Collators
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Name</span></th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Address</span></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">G-DOT STAKING-1</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;font-style:normal">dE1hg6RRdKTve3ykygqu4TtPrriDdMrNj858hCcDo7citE5mo</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Name</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">PID</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Owner</span></th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Vault 1</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3796</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:500;font-style:normal">42qrmspy8HdVuVJ8tReZAjgMB7rEB3y7eQ4A6QGJL2V3o8AY</span></td></tr></tbody></table>
 
 #### KILT Collators
 
